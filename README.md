@@ -57,10 +57,4 @@ I'm a frontend developer with a passion for clean code and innovative solutions.
 - 🇩🇪 Native German speaker
 - 🇬🇧 Fluent in English (C1 level)
 
-## 🤝 Let's Connect!
 
-I'm always interested in collaborating on exciting projects and discussing new technologies. Whether you have a project in mind or just want to chat about web development, feel free to reach out through GitHub!
-
----
-
-*"I'm a frontend developer with a heart for good code. My career path is open: I can envision diving deeper into frontend development, taking the leap into backend, or even exploring entirely new paths outside of web development. What matters most to me is that the work stays exciting and I'm constantly faced with new, diverse challenges."*
