@@ -1,1 +1,2 @@
-<img src="./image.jpg" style="width: 100%;">
+<img src="./GitHub.jpg" style="width: 100%;">
+
