@@ -1,1 +1,1 @@
-![Moritz Pfeffer - Creative Frontend Developer](./GitHub.jpg)
+<img src="./image.jpg" style="width: 100%;">
